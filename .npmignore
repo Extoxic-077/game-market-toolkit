@@ -1,0 +1,8 @@
+src/
+tests/
+.github/
+docs/
+coverage/
+*.config.ts
+eslint.config.js
+tsconfig.json
